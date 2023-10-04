@@ -15,7 +15,12 @@
 
  <br />
 
- ## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
+ <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> 
+ <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /> 
+ <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/>
+ <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50"/>
+ <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
  <br /> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdujalolAndy/AbdujalolAndy/output/github-contribution-grid-snake-dark.svg">
