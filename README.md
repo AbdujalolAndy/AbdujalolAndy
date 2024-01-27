@@ -3,7 +3,7 @@
 </div>
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 <img  src="https://img.shields.io/youtube/channel/subscribers/UCBI6_Pnm_tBbcRiRGjXLl3w?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge"/>
-<img style="margin:10px" align="right" alt="Hello world gif" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" height="300" width="400" />
+<img style="margin:10px" align="right" alt="Hello world gif" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="300" width="400" />
 - 👀 I’m interested in Coding and Problem Solving
 
 - 👍 Like professional knowledge of technologies in JavaScript, React, NodeJS, ExpressJS and MongoDB. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
