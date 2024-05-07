@@ -8,7 +8,7 @@
 
 - 👍 Like professional knowledge of technologies in JavaScript, React, NodeJS, ExpressJS and MongoDB. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
 
-- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and  html, css and Javascript.
+- 👨🏻‍💻 Currenly I'm doing  practices with MERN Stack, NestJs/NextJs with GraphQL queries.
 
 - 🌱 I didn't stop to learn, also I'm learning NodeJS in advanced level and React.
 
